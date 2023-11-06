@@ -9,8 +9,8 @@ url:                   https://nickddev.github.io
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/hydejack-starter-kit'
-
+baseurl:               /nickddev.github.io
+# baseurl:               '/nickddev.github.io' (orig)
 
 # General settings
 # ---------------------------------------------------------------------------------------
@@ -28,7 +28,7 @@ description:           >
   Development Projects.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Development Projects.
 
 # A list of keywords for your blog
 keywords:              []
