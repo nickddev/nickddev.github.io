@@ -1,23 +1,14 @@
-# Skinny Bones Jekyll Starter
+# Creative Theme for Jekyll
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
+Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
+The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
 
----
+See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 
-## Notable Features
+## To use the Creative Theme template in your project
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+- Start by adding your info in `_config.yml`
+- In `_layouts/front.html` reorder or remove section as you prefer.
 
-## More Jekyll Themes
-
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
-
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
