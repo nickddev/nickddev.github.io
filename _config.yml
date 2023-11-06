@@ -5,7 +5,7 @@ description: "Development Projects."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://www.nickddev.github.io
+url: https://nickddev.github.io
 feed:
   path: atom.xml
 
