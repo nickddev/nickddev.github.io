@@ -1078,7 +1078,9 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #e6e6e6;
+  /*background-color: #fff; ORIG ND*/
+  
 }
 input,
 button,
