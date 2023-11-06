@@ -1,2 +1,0 @@
-# nickddev.github.io
-Development
